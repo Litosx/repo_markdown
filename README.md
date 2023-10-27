@@ -93,3 +93,4 @@ Enlaces a la página web del [Práctica Markdown][1], a [GitHub][2] y a [Posada 
 Por ejemplo, en esta frase  
 hemos forzado un salto de línea.
 
+[Creamos enlace para el nuevo documento.](https://github.com/Litosx/repo_markdown/blob/main/Paso_6.md)
